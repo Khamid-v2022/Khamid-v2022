@@ -4,107 +4,120 @@
 
 <br/>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">👋 Hi, I'm a Senior Full-Stack Developer</h2>
 
 <p align="center">
-  Full-Stack Developer | Problem Solver | Open Source Enthusiast<br>
-  Building scalable web applications with modern JavaScript ecosystem<br>
-  Currently focused on <strong>Next.js 15+, TypeScript, Server Components</strong> & <strong>AI-integrated apps</strong>
+  <strong>15+ years</strong> turning manual business processes into <strong>scalable, automated, low-maintenance systems</strong><br>
+  I specialize in <strong>Laravel • n8n • CRM & internal tools</strong> that actually <strong>reduce costs and prevent human errors</strong>.
+</p>
+
+<p align="center">
+  💼 Open for long-term partnerships & complex automation projects<br>
+  🔹 Focus: Replace spreadsheets + Zapier → production-grade automated workflows
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="github streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="github stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&date_format=M+j%5B%2C+Y%5D" width="48%" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" width="60%" alt="top languages"/>
 </div>
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Core Tech Stack</h2>
 
 <p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  
   <!-- Frontend -->
+  <br><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
   
-  <!-- Backend / Others -->
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <!-- Automation & AI -->
+  <br><br>
+  <img src="https://img.shields.io/badge/n8n-00A859?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PersonaPlex-00C4B4?style=for-the-badge&logoColor=white"/> <!-- NVIDIA PersonaPlex Voice AI -->
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
+  
+  <!-- Database & Infra -->
+  <br><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  
-  <!-- DevOps / Tools -->
-  <br/><br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 <br/>
 
-<h2 align="center">🔥 Featured Projects</h2>
+<h2 align="center">🔥 What I Build & Solve</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://github.com/YOUR_USERNAME/project-1">
-          <img src="https://opengraph.githubassets.com/1/YOUR_USERNAME/project-1" width="100%" alt="Project 1"/>
-          <br/>
-          <b>Project Name 1</b><br/>
-          <sub>Next.js • TypeScript • Tailwind • Prisma</sub>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/YOUR_USERNAME/project-2">
-          <img src="https://opengraph.githubassets.com/1/YOUR_USERNAME/project-2" width="100%" alt="Project 2"/>
-          <br/>
-          <b>Project Name 2</b><br/>
-          <sub>React • Zustand • Supabase • shadcn/ui</sub>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/YOUR_USERNAME/project-3">
-          <img src="https://opengraph.githubassets.com/1/YOUR_USERNAME/project-3" width="100%" alt="Project 3"/>
-          <br/>
-          <b>Project Name 3</b><br/>
-          <sub>Full-Stack • tRPC • NextAuth • Drizzle</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td><strong>🛒 B2B / B2C Platforms</strong></td>
+    <td>Multi-tenant systems, role-based access, real-time dashboards, high-volume order & payment flows</td>
+  </tr>
+  <tr>
+    <td><strong>📊 CRM & Internal Tools</strong></td>
+    <td>Customer 360°, order lifecycle, invoicing, approval workflows, audit trails</td>
+  </tr>
+  <tr>
+    <td><strong>🤖 Automation & n8n Workflows</strong></td>
+    <td>API orchestration, webhook-driven processes, retries & monitoring, replacement for Zapier / Make</td>
+  </tr>
+  <tr>
+    <td><strong>🗣️ Voice AI Integration</strong></td>
+    <td>PersonaPlex (NVIDIA) powered real-time conversational voice agents with custom personas & voices</td>
+  </tr>
+  <tr>
+    <td><strong>💳 Payment & Fintech Flows</strong></td>
+    <td>Stripe, PayPal, Google/Apple Pay, crypto gateways — secure, idempotent, retry-safe</td>
+  </tr>
+</table>
 
 <br/>
 
-<h2 align="center">📫 Let's Connect</h2>
+<h2 align="center">💼 Services I Offer</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  • End-to-End Full-Stack Development (Laravel + Modern Frontend)<br>
+  • Custom CRM & Operation Systems<br>
+  • n8n + Voice AI (PersonaPlex) Automation & Integrations<br>
+  • API-First Architecture & Third-Party Connectors<br>
+  • Performance, Security, Scalability Refactoring<br>
+  • Legacy PHP → Modern Laravel Migration
+</p>
+
+<br/>
+
+<h2 align="center">📫 Let's Build Something Efficient Together</h2>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~YOUR_UPWORK_ID">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <a href="mailto:your.email@domain.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://YOUR_PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  <!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> -->
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer&%20text=" width="100%"/>
 </div>
