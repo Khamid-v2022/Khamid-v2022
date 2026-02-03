@@ -1,5 +1,3 @@
-### Hello, World! 👋
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there%20👋%20I'm%20YOUR_NAME&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="header" width="100%"/>
 </div>
