@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhamidAlAkkhali&theme=radical&hide_border=true&date_format=M+j%5B%2C+Y%5D" width="48%" alt="streak"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhamidAlAkkhali&theme=radical&hide_border=true&date_format=M+j%5B%2C+Y%5D" width="48%" alt="streak"/> -->
 </div>
 
 <br/>
