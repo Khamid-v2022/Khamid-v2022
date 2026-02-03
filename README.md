@@ -19,8 +19,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khamid-v2022&theme=radical&hide_border=true&date_format=M+j%5B%2C+Y%5D" width="48%" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Khamid-v2022&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khamid&theme=radical&hide_border=true&date_format=M+j%5B%2C+Y%5D" width="48%" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khamid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="stats"/>
 </div>
 
 <br/>
