@@ -19,12 +19,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&date_format=M+j%5B%2C+Y%5D" width="48%" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khamid&theme=radical&hide_border=true&date_format=M+j%5B%2C+Y%5D" width="48%" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khamid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" width="60%" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khamid&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" width="60%" alt="top languages"/>
 </div>
 
 <br/>
@@ -104,16 +104,12 @@
 <h2 align="center">📫 Let's Build Something Efficient Together</h2>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~YOUR_UPWORK_ID">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/khamid-al-akkhali-0b0a11178/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@domain.com">
+  <a href="mailto:khamid.webdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> -->
 </p>
 
 <br/>
