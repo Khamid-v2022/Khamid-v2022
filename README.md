@@ -26,7 +26,7 @@
 
 <h2 align="center">🛠️ Core Tech Stack</h2>
 
-<p align="center">
+<p align="">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=laravel&logoColor=white"/>
