@@ -23,8 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Khamid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="stats"/>
 </div>
 
-
-
 <br/>
 
 <h2 align="center">🛠️ Core Tech Stack</h2>
