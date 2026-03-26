@@ -3,7 +3,6 @@
 </div>
 
 <h2 align="center">🛠️ Core Tech Stack</h2>
-
 <p align="">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -12,19 +11,16 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   
   <!-- Frontend -->
-  <br><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
   
   <!-- Automation & AI -->
-  <br><br>
   <img src="https://img.shields.io/badge/n8n-00A859?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/PersonaPlex-00C4B4?style=for-the-badge&logoColor=white"/> <!-- NVIDIA PersonaPlex Voice AI -->
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
   
   <!-- Database & Infra -->
-  <br><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -58,7 +54,3 @@
     <td>Stripe, PayPal, Google/Apple Pay, crypto gateways — secure, idempotent, retry-safe</td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer&%20text=" width="100%"/>
-</div>
