@@ -59,34 +59,6 @@
   </tr>
 </table>
 
-<br/>
-
-<h2 align="center">💼 Services I Offer</h2>
-
-<p align="center">
-  • End-to-End Full-Stack Development (Laravel + Modern Frontend)<br>
-  • Custom CRM & Operation Systems<br>
-  • n8n + Voice AI (PersonaPlex) Automation & Integrations<br>
-  • API-First Architecture & Third-Party Connectors<br>
-  • Performance, Security, Scalability Refactoring<br>
-  • Legacy PHP → Modern Laravel Migration
-</p>
-
-<br/>
-
-<h2 align="center">📫 Let's Build Something Efficient Together</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/khamid-al-akkhali-0b0a11178/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:khamid.webdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer&%20text=" width="100%"/>
 </div>
