@@ -2,28 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there%20👋%20I'm%20Khamid&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="header" width="100%"/>
 </div>
 
-<br/>
-
-<h2 align="center">👋 Hi, I'm a Senior Full-Stack Developer</h2>
-
-<p align="center">
-  <strong>15+ years</strong> turning manual business processes into <strong>scalable, automated, low-maintenance systems</strong><br>
-  I specialize in <strong>Laravel • n8n • CRM & internal tools</strong> that actually <strong>reduce costs and prevent human errors</strong>.
-</p>
-
-<p align="center">
-  💼 Open for long-term partnerships & complex automation projects<br>
-  🔹 Focus: Replace spreadsheets + Zapier → production-grade automated workflows
-</p>
-
-<br/>
-
-<div align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhamidAlAkkhali&theme=radical&hide_border=true&date_format=M+j%5B%2C+Y%5D" width="48%" alt="streak"/> -->
-</div>
-
-<br/>
-
 <h2 align="center">🛠️ Core Tech Stack</h2>
 
 <p align="">
